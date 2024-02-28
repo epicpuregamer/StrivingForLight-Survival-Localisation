@@ -1,6 +1,6 @@
 # How To Contribute
 
-First of all thanks for considering contributing to the translations for Striving for Light: Survival.
+First of all thanks for considering contributing to the translations for Striving for Light: Survival. Here are the steps to get you started contributing to the translations:
 
 1. Create a github account.
 2. If you are logged into your account press the "Fork" button on the top right of the screen here at the translation repository. A "fork" creates a copy of the translation project which then is local to your github account.
