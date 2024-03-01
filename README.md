@@ -1,3 +1,6 @@
+# Striving for Light: Survival Localisation
+Localisation of the Roguelite Striving for Light: Survival
+
 # How To Contribute
 
 First of all thanks for considering contributing to the translations for Striving for Light: Survival. Here are the steps to get you started contributing to the translations:
