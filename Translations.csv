@@ -26,7 +26,7 @@ BACK;Back;Zurück;Retour;Indietro;Volver;返回游戏;戻る;뒤로;Voltar;Powr�
 RETURN;Return;Fortsetzen;Retour;Ritorna;Volver;返回;戻る;Return;Voltar;Powrót;Возврат;Dönüş
 STATS;Stats;Stats;Stats;Statistiche;Estadísticas;统计数据;統計情報;통계;Estatísticas;Statystyki;Статистика;İstatistikler
 TUT_MOVE_KEYS;MOVE;BEWEGEN;MOVE;MUOVERSI;MOVER;移动;ムーヴ;MOVE;MOVE;RUCH;ПЕРЕМЕСТИТЬ;HAREKET
-TUT_MOVE_CONTROLLER;"""Left Stick"" \n MOVE";"""Linker Stick"" \n BEWEGEN";"""Stick gauche"" \n MOVE";"""Bastone sinistro"" \n MUOVI";"""Palo izquierdo"" \n MOVER";"""左棒"" \n 移动";「左スティック」 \n MOVE;왼쪽 스틱 \n MOVE;Directional Esquerdo \n MOVE;"""Lewy drążek"" \RUCH";"""Левая палочка"" \MOVE";"""Sol Çubuk"" \HAREKET"
+TUT_MOVE_CONTROLLER;"""Left Stick"" \n MOVE";"""Linker Stick"" \n BEWEGEN";"""Stick gauche"" \n MOVE";"""Bastone sinistro"" \n MUOVI";"""Palo izquierdo"" \n MOVER";"""左棒"" \n 移动";「左スティック」 \n MOVE;왼쪽 스틱 \n MOVE;"""Directional Esquerdo"" \n MOVE;"""Lewy drążek"" \RUCH";"""Левая палочка"" \MOVE";"""Sol Çubuk"" \HAREKET"
 TUT_MOVE_MOUSE;MOVE;BEWEGEN;MOVE;MUOVERSI;MOVER;移动;ムーヴ;MOVE;MOVE;RUCH;ПЕРЕМЕСТИТЬ;HAREKET
 TUT_DODGE_KEYS;DODGE;DODGE;DODGE;DODGE;DODGE;道奇;DODGE;DODGE;DODGE;DODGE;DODGE;DODGE
 TUT_DODGE_CONTROLLER;"""RT/LT"" \n DODGE";"""RT/LT""DODGE";"""RT/LT""DODGE";"""RT/LT""DODGE";"""RT/LT""DODGE";"""RT/LT""道奇";"""RT/LT"" \n DODGE";"""RT/LT"" \nDODGE";"""RT/LT"" \nDODGE";"""RT/LT""\n DODGE";"""RT/LT""\n DODGE";"""RT/LT"" \n DODGE"
